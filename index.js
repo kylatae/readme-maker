@@ -34,7 +34,7 @@ const questions = [
     type: 'list',
     message: 'Which license do you use?',
     name: 'license',
-    choices: ['MIT License', 'Apache License 2.0', 'GNU General Public License (GPL) v3', 'Mozilla Public License 2.0', 'BSD 3-Clause License', 'I do not use a license']
+    choices: ['MIT License', 'Apache License 2.0', 'GNU General Public License (GPL) v3', 'BSD 3-Clause License', 'I do not use a license']
   },
   {
     type: 'input',
@@ -48,7 +48,6 @@ function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
 function init() {}
-
 
 // Function call to initialize app
 init();
