@@ -48,4 +48,4 @@
 
 [Video Example Link](./assets/vid/readme.mp4) 
 
-Repo Link:[https://www.github.com/kylatae/readme_maker/](https://www.github.com/kylatae/readme_maker)
+Repo Link:[https://www.github.com/kylatae/readme-maker/](https://www.github.com/kylatae/readme-maker)
