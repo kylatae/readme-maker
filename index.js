@@ -51,7 +51,6 @@ const questions = [
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, gmd(data), (err) =>
   err ? console.error(err) : console.log('Success!'))
-
 }
 
 // TODO: Create a function to initialize app
@@ -61,7 +60,6 @@ function init() {
     .then((data)=>{
       writeToFile('README.md', data)
     })
-
 }
 
 // Function call to initialize app

@@ -122,12 +122,18 @@ function generateMarkdown(data) {
   ${data.longDesc}
   
   ## Table of Contents
+
   [Installation](#installation)
-  [Usage](usage)
-  [License](license)
-  [Contributing](contributing)
-  [Tests](tests)
-  [Questions](questions)
+  
+  [Usage](#usage)
+  
+  [License](#license)
+  
+  [Contributing](#contributing)
+  
+  [Tests](#tests)
+  
+  [Questions](#questions)
 
   ## Installation
   ${data.install}
