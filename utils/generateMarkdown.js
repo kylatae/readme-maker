@@ -138,6 +138,9 @@ function generateMarkdown(data) {
   ## Installation
   ${data.install}
 
+  ## Usage
+  ${data.usage}
+
   ## License
   ${renderLicenseBadge(data.license)}
 
